@@ -1,1 +1,3 @@
-This is a software engineering class
+This is a software engineering class.
+All are good students of DS.
+Doing lab correctly
